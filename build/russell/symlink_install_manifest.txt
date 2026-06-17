@@ -1,0 +1,15 @@
+/home/user/ros2_ws/install/russell/share/ament_index/resource_index/package_run_dependencies/russell
+/home/user/ros2_ws/install/russell/share/ament_index/resource_index/parent_prefix_path/russell
+/home/user/ros2_ws/install/russell/share/russell/environment/ament_prefix_path.sh
+/home/user/ros2_ws/install/russell/share/russell/environment/ament_prefix_path.dsv
+/home/user/ros2_ws/install/russell/share/russell/environment/path.sh
+/home/user/ros2_ws/install/russell/share/russell/environment/path.dsv
+/home/user/ros2_ws/install/russell/share/russell/local_setup.bash
+/home/user/ros2_ws/install/russell/share/russell/local_setup.sh
+/home/user/ros2_ws/install/russell/share/russell/local_setup.zsh
+/home/user/ros2_ws/install/russell/share/russell/local_setup.dsv
+/home/user/ros2_ws/install/russell/share/russell/package.dsv
+/home/user/ros2_ws/install/russell/share/ament_index/resource_index/packages/russell
+/home/user/ros2_ws/install/russell/share/russell/cmake/russellConfig.cmake
+/home/user/ros2_ws/install/russell/share/russell/cmake/russellConfig-version.cmake
+/home/user/ros2_ws/install/russell/share/russell/package.xml

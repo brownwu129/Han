@@ -1,0 +1,4 @@
+source;share/russell/local_setup.bash
+source;share/russell/local_setup.dsv
+source;share/russell/local_setup.sh
+source;share/russell/local_setup.zsh
